@@ -84,9 +84,6 @@ The analysis provides insights into:
 - Product positioning
 - Targeted marketing
 
-## Dashboard Preview
-
-![Customer Behavior Dashboard](images/dashboard.png)
 
 ## Project Structure
 
