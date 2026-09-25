@@ -84,6 +84,10 @@ The analysis provides insights into:
 - Product positioning
 - Targeted marketing
 
+## Dashboard Preview
+
+![Customer Behavior Dashboard](images/dashboard.png)
+
 ## Project Structure
 
 ```text
@@ -98,5 +102,3 @@ customer-shopping-behavior-analysis/
 │   └── Customer_Behavior_Dashboard.pbix
 ├── data/
 │   └── README.md
-└── images/
-    └── dashboard.png
